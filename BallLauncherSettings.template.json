@@ -1,0 +1,222 @@
+{
+  "settingsVersion": "1",
+  "showBallMachineLauncherAlways": "True",
+  "ballCount": "2",
+  "timeScale": "1",
+  "shuffle": "False",
+  "shots": {
+    "LastModified": "1/1/0001 12:00:00 AM",
+    "Dirty": "False",
+    "Deleted": "False",
+    "data": {
+      "TITLE": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "90"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "8",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6.17999982833862",
+            "secondsPerLaunch": "2",
+            "PostDelay": "0"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0",
+            "PostDelay": "0"
+          }
+        },
+        "DataName": "Beats Drills by SolidSlime",
+        "CanUpdate": "True"
+      },
+      "HOWTO": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "90"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "8",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6.17999982833862",
+            "secondsPerLaunch": "2",
+            "PostDelay": "0"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0",
+            "PostDelay": "0"
+          }
+        },
+        "DataName": "How to Use: https://SolidSlime.net/bpm",
+        "CanUpdate": "True"
+      },
+      "FHTemplate": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0.490476131439209",
+            "y": "-0.217473149299622",
+            "z": "-0.0743200778961182"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13.5260391235352",
+            "verticalAngle": "14.9759998321533"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "69.9644012451172",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10",
+            "secondsPerLaunch": "0.605359971523285",
+            "PostDelay": "0"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0",
+            "PostDelay": "0"
+          }
+        },
+        "DataName": "Holding out for a hero (149 BPM) FH",
+        "CanUpdate": "True"
+      },
+      "BHTemplate": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0.490476131439209",
+            "y": "-0.217473149299622",
+            "z": "-0.0743200778961182"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "13.5260391235352",
+            "verticalAngle": "14.97607421875"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "69.9644012451172",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10",
+            "secondsPerLaunch": "0.600000023841858",
+            "PostDelay": "0"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0",
+            "PostDelay": "0"
+          }
+        },
+        "DataName": "Holding out for a hero (149 BPM) BH",
+        "CanUpdate": "True"
+      }
+    }
+  }
+}
